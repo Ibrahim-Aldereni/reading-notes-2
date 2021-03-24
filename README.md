@@ -7,11 +7,11 @@
 
 ## Table of Contents: :clipboard:
 
-|  The Topics                   | The link  |
-| -----------                   |---------  |
-| The Coder's Computer          |[Read-01]() |
-| Learning Markdown             |[Read-02a]()|
-| Revisions and the Cloud       |[Read-02b]()|
-| Structure web pages with HTML |[Read-03]()|
+|  The Topics                   | The link              |
+| ------------------------------|-----------------------|
+| The Coder's Computer          |[Read-01](read01.md)   |
+| Learning Markdown             |[Read-02a](read02a.md) |
+| Revisions and the Cloud       |[Read-02b](read02b.md) |
+| Structure web pages with HTML |[Read-03](read03.md)   |
 
 
