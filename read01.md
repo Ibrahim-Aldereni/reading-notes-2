@@ -31,3 +31,5 @@ prompt, command, command line arguments and options.
 - you need to use quotes or backslash to solve the spaces in directories names.
 - if the file or directory's name begins with a . (full stop) then it is considered to be hidden.
 - (ls -a) to see the hidden files.
+
+[Back to home page](README.md)
