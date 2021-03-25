@@ -13,6 +13,6 @@
 | Learning Markdown             |[Read-02a](read02a.md) |
 | Revisions and the Cloud       |[Read-02b](read02b.md) |
 | Structure web pages with HTML |[Read-03](read03.md)   |
-| Programming with JavaScript   |[Read-03](read04.md)   |
+| Programming with JavaScript   |[Read-04](read04.md)   |
 
 
