@@ -25,7 +25,7 @@
 - operators types:
   - Assignment operators (=).
   - arithmetic operators (+ - * /).
-  - logical operators (&& || not).
+  - logical operators (&& or not).
   - comparison operators (> < >= => !=).
 
 
