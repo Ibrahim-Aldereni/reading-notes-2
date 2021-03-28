@@ -3,7 +3,7 @@
 
 ## Intro: :boy:
 
-*My name is Ibrahim Aldereni, I have a bachelor degree from Zarqa University, I am interested in programming and I have a lot of enthusiasm to learn new skills and ideas about web development.*
+*My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering from Zarqa University, I am interested in programming and I have a lot of enthusiasm to learn new skills and ideas about web development.*
 
 ## Table of Contents: :clipboard:
 
