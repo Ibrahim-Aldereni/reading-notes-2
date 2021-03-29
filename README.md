@@ -15,5 +15,6 @@
 | Structure web pages with HTML |[Read-03](read03.md)   |
 | Programming with JavaScript   |[Read-04](read04.md)   |
 | Operators and Loops           |[Read-05](read05.md)   |
+| Design web pages with CSS     |[Read-06](read06.md)   |
 
 
