@@ -26,5 +26,6 @@
   while (i <10){
     //the code
   }
-  ```   
-  [Back to home page](README.md)
+  ```  
+
+[Back to home page](../README.md)

@@ -30,4 +30,4 @@
 - Escape characters can let you include symbols. ex: `&copy;` for copu rights symbol.
 
 
-[Back to home page](README.md)
+[Back to home page](../README.md)

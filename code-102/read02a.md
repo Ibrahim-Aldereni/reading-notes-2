@@ -9,4 +9,4 @@
 - GitHub pages let you publish your repository as a website.
 - GitHub pages created without letting you configure server, SQL or even knowing HTML.
 
-[Back to home page](README.md)
+[Back to home page](../README.md)

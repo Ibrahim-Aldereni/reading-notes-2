@@ -6,4 +6,4 @@
 - Git files pass through three stages: modified, staged, commited.
 - You can create repository locally or remotely. 
 
-[Back to home page](README.md)
+[Back to home page](../README.md)

@@ -16,4 +16,4 @@
   + lightness
 + You can use HSL color property to select colors, by entering (hue, saturation and lightness) values.  
 
-[Back to home page](README.md)
+[Back to home page](../README.md)

@@ -34,4 +34,4 @@ prompt, command, command line arguments and options.
 - if the file or directory's name begins with a . (full stop) then it is considered to be hidden.
 - (ls -a) to see the hidden files.
 
-[Back to home page](README.md)
+[Back to home page](../README.md)
