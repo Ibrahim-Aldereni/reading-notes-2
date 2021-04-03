@@ -14,7 +14,7 @@
   > `id='greeting'` arttribute.
   > `hi` content.
 
-## Example of a basic web page structure:
+## Example:
   ```HTML
   <!DOCTYPE html> this tag used to tell the browser that we use HTML5
   <html> this tag used to tell the browser that all the content inside is HTML
@@ -51,6 +51,8 @@
 + `<a>` Defines a hyperlink
 + `<img>` Defines an image
 + `<ul>` Defines an unordered list
++ `<script>` Defines a javascript code
++ `<style>` Defines a CSS code
 
 ## Quiz:
  > *create a basic HTML web page structure that have a header (h1) and paragraph. give the header (id) attribute and give the paragraph (class) attribute.*
@@ -60,16 +62,41 @@
 ![JS](img/js.png)
 
 ## WHAT/WHY/HOW:
-+ WHAT
-+ WHY
-+ HOW
++ **WHAT**: Javascript is a programming language that allows you to make the web pages interactive.
+
++ **WHY**: Javascript convert a web page from static to dynamic, and it contain loops, conditions, math, functions.
+
++ **HOW**: You can add Javascript to your code internally by using `<script>` tag inside the HTML page, or externlly by creating (.js) file and link it to the HTML page (`<script src="script.js"></script>`)
 
 ## Example:
+```javascript
+document.write('Hello, world')
+```
++ `document` is the object, the object represent the entire web page.
++ `.` is the member operator, each object contain several methods and to access the member e use dot `.`.
++ `write()` is a method, this method allow me to write on the HTML page.
++ `'Hello, world'` is a parameter of the `write()` method.
 
 ## Definitions list:
 
++ Script >> is a sequence of instructions that executed step by step by the computer to achieve a goal.
++ Flowchart >> high level view of the a script tasks.
++ Objects >> Representation of a physical thing.
++ Propertites >> tell us about the object characteristics.
++ Methods >> perform tasks using the propertites of an object.
++ Events >> triggered when a user interacts with the page (click, hover..etc)
+
 ## Cheat sheet:
 
++ `var` Defines a variable
++ `document.write()` Write directly to the HTML document
++ `if (condition) { code }` If Statement
++ `prompt()` Creates an dialogue for user input
++ `console.log()` Writes information to the browser console, used for deevelopers.
++ `alert()` Output data in an alert box in the browser window
++ `//` single line comment
++ `/* */` Multi line comment  
 ## Quiz:
+> *Write A javascript code to add a (hello, world) text to the web page. create extenal javascript file and link it to your HTML page.*
 
 [Back to home page](../README.md)
