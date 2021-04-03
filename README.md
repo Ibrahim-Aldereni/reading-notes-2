@@ -1,4 +1,4 @@
-# Welcome to Ibrahim Aldereni second Website
+# Welcome to Ibrahim Aldereni readings summary Website
 > This repo contain all my classes readings
 
 ## Intro: :boy:
@@ -7,14 +7,19 @@
 
 ## Table of Contents: :clipboard:
 
-|  The Topics                   | The link              |
-| ------------------------------|-----------------------|
-| The Coder's Computer          |[Read-01](read01.md)   |
-| Learning Markdown             |[Read-02a](read02a.md) |
-| Revisions and the Cloud       |[Read-02b](read02b.md) |
-| Structure web pages with HTML |[Read-03](read03.md)   |
-| Programming with JavaScript   |[Read-04](read04.md)   |
-| Operators and Loops           |[Read-05](read05.md)   |
-| Design web pages with CSS     |[Read-06](read06.md)   |
+### Code 102 Reading Notes:
 
+
+|  The Topics                   | The link                       |
+| ------------------------------|--------------------------------|
+| The Coder's Computer          |[Read-01](code-102/read01.md)   |
+| Learning Markdown             |[Read-02a](code-102/read02a.md) |
+| Revisions and the Cloud       |[Read-02b](code-102/read02b.md) |
+| Structure web pages with HTML |[Read-03](code-102/read03.md)   |
+| Programming with JavaScript   |[Read-04](code-102/read04.md)   |
+| Operators and Loops           |[Read-05](code-102/read05.md)   |
+| Design web pages with CSS     |[Read-06](code-102/read06.md)   |
+
+
+### Code 201 Reading Notes:
 
