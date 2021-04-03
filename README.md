@@ -1,14 +1,14 @@
 # Welcome to Ibrahim Aldereni readings summary Website
 > This repo contain all my classes readings
 
-## Intro: :boy:
+## **Intro:** 
 
 *My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering from Zarqa University, I am interested in programming and I have a lot of enthusiasm to learn new skills and ideas about web development.*
 
-## Table of Contents: :clipboard:
-
+## **Table of Contents:**
+---
 ### Code 102 Reading Notes:
-
+---
 
 |  The Topics                   | The link                       |
 | ------------------------------|--------------------------------|
@@ -20,6 +20,12 @@
 | Operators and Loops           |[Read-05](code-102/read05.md)   |
 | Design web pages with CSS     |[Read-06](code-102/read06.md)   |
 
-
+---
 ### Code 201 Reading Notes:
+---
+
+|  The Topics                       | The link                       |
+| ----------------------------------|--------------------------------|
+| Introductory HTML and JavaScript  |[Read-01](code-201/class-01.md) |
+
 
