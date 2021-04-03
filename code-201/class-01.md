@@ -95,7 +95,8 @@ document.write('Hello, world')
 + `console.log()` Writes information to the browser console, used for deevelopers.
 + `alert()` Output data in an alert box in the browser window
 + `//` single line comment
-+ `/* */` Multi line comment  
++ `/* */` Multi line comment
+  
 ## Quiz:
 > *Write A javascript code to add a (hello, world) text to the web page. create extenal javascript file and link it to your HTML page.*
 
