@@ -27,19 +27,19 @@
   <head>
   <title>CSS Style</title>
   <style>
-    *{  >>>> this is Universal Selector
+    *{   /* this is Universal Selector */
       color: red;
     }
 
-    h1{ >>>> this is Type Selector
+    h1{  /* this is Type Selector */
       background: blue;
     }
 
-    .div1{ >>>> this is Class Selector
+    .div1{ /* this is Class Selector */
       font-size: 15px;
     }
 
-    div>p{  >>>> this is Child Selector
+    div>p{  /* this is Child Selector */
       color: green;
     }
   </style>
