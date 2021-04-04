@@ -27,5 +27,6 @@
 |  The Topics                       | The link                       |
 | ----------------------------------|--------------------------------|
 | Introductory HTML and JavaScript  |[Read-01](code-201/class-01.md) |
+| HTML Text, CSS Introduction       |[Read-02](code-201/class-02.md) |
 
 
