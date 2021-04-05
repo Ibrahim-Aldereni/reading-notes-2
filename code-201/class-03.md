@@ -63,7 +63,8 @@ p{
 + `margin` set the outside area of box element
 + `padding`  set the inside area of box element
 + `visibility` set the element to visible or hidden
-+ `display` change the box module of the box element
++ `display` change the box module of the box element.
+
 ---
 # **Javascript (Ch2-Ch4) Notes:**
 
