@@ -71,6 +71,7 @@ p{
 ## Notes:
 
 + Array is contain list of items related to each other, and there is two ways to write an array: literal and constructor, see the code below:
+
 ```javascript
 // literal array
 let arr1 = ['Ahmad','Yazan','Hassan'];
