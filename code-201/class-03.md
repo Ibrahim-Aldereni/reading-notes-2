@@ -34,16 +34,16 @@ p{
 
 ## Definitions list:
 
-+ Ordered list >> the items of this list is ordered by incremening numbers.
-+ Unordered lists >> the items of this list is ordered by bullets.
-+ Definition lists >> the items of this list is ordered by the definition.
-+ Nested Lists >> use s sub-list inside a list.
-+ Limiting Width >> set the min-width and max-width of the element using css.
-+ Limiting height >> set the min-height and max-height of the element using css.
-+ overflow >> when the content is larger than the element itself.
-+ Border >> area around the box element between the margin and the padding.
-+ Margin >> outside area of the box element.
-+ Padding >> area between the content and the border of the box element. 
++ **Ordered list** >> the items of this list is ordered by incremening numbers.
++ **Unordered lists** >> the items of this list is ordered by bullets.
++ **Definition lists** >> the items of this list is ordered by the definition.
++ **Nested Lists** >> use s sub-list inside a list.
++ **Limiting Width** >> set the min-width and max-width of the element using css.
++ **Limiting height** >> set the min-height and max-height of the element using css.
++ **overflow** >> when the content is larger than the element itself.
++ **Border** >> area around the box element between the margin and the padding.
++ **Margin** >> outside area of the box element.
++ **Padding** >> area between the content and the border of the box element. 
 
 ## Cheat sheet:
 ### HTML:
@@ -79,17 +79,52 @@ console.log(arr1[1]); // result = Yazan
 let arr2 = new Array('Ahmad','Yazan','Hassan');
 console.log(arr1.item(1)); // result = Yazan
 ```
++ Because JS is weak typing (means that it converts datatype when needed), when comparing two values if equal it's better to use `===` not `==` to check the value and the datatype.
+
++ There is 3 types of loops: for, while and do while. for loop used when we know how the number of times we want to loop opposite to while loop and do-while. 
 
 ## Example:
-array change item and get the array length
+
+```javascript
+let arr = ['A','B','C'];
+let arrLength = arr.length;
+
+for(let i=0; i < arrLength; i++){
+  console.log(arr[i]);
+}
+```
+> In the example above the for loop wil iterate through the array items, so the output will be: A B C
 
 ## Definitions list:
 
-+ literal array >> type of JS arrays where the values listed between square brackets.
-+ constructor array >> type of JS arrays where the values listed between parentheses.
++ **literal array** >> type of JS arrays where the values listed between square brackets.
++ **constructor array** >> type of JS arrays where the values listed between parentheses.
++ **Type coercion** >> convertion of datatypes if needes to complete the task.
++ **NaN** >> not a number datatype.
++ **loop** >> excecuting a code again and again till some cindition met.
++ **infinite loop** >> if the condition never return false the loop will execute forever.
+
 
 ## Cheat sheet:
- 
++ ```javascript
+  // for loop synatx
+  for (initilize; condition; update) {
+    // code block to be executed
+  }
+  ```
++ ```javascript
+  // While loop syntax:
+  while (condition) {
+    // code block to be executed
+  }
+  ```
++ ```javascript
+  // do while loop syntax:
+  do {
+    // code block to be executed
+  }
+  while (condition);
+  ```
 
 
 [Back to home page](../README.md)
