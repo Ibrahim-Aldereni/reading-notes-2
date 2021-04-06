@@ -29,5 +29,6 @@
 | Introductory HTML and JavaScript |[Read-01](code-201/class-01.md)|
 | HTML Text, CSS Introduction      |[Read-02](code-201/class-02.md)|
 | HTML Lists, CSS Boxes, JS Control Flow|[Read-03](code-201/class-03.md)|
+| HTML Links, CSS Layout, JS Functions|[Read-04](code-201/class-04.md)|
 
 
