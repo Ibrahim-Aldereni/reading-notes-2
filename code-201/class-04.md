@@ -4,7 +4,7 @@
 
 + You can create a link to other site by decalring `<a href=''>` anchor tag with an attribute of `href` that holds the site URL.
 
-+ Realtive URL have relations, see the figure below to understand:
++ Relative URL have types, see the figure below to understand:
 
 ![url](img/relativeURL.jpg)
 
@@ -58,22 +58,102 @@ h1{
 + `position` property determines the position of the element.
 
 ---
-# **Javascript (Ch2-Ch4) Notes:**
+# **Javascript (Ch3-Article) Notes:**
 
 ## Notes:
 
++ Steps of writing the functions:
+  1. Declaration.
+  1. Returning value.
+  1. Calling.
 
+```javascript
+function Size(w,h){ // declaring function with parameters (w,h)
+  let area = w * h;  // code to be executed
+  return area;   // value to be returned out of the function
+}
 
-## Example:
+Size(3,2);  // calling the function and provide the arguments
+```
+  
++ There is 2 types of functions: named and anonymous, see the code below to understand:
 
+```javascript
+// named function
+function sum(a,b){
+  let add = a+b;
+  return add;
+}
+sum(1,2)
+
+// anonymous function
+let sum = function(a,b){
+  let add = a+b;
+  return add;
+}
+sum(1,2)
+```
+
++ You can declare and call the function at the same time, and this is called Immediately Invoked Function Expression, see code below:
+
+```javascript
+// Immediately Invoked Function
+(function sum(a,b){
+  let add = a+b;
+  return add;
+}())
+```
+
++ Pair Programming means that 2 developers working on the same workstation to code together.
+
++ Pair Programming have 2 roles: one is the driver and the other is the navigator. the driver is the only one that touc hthe keybord and writing code, navigator on the other hand give advices and fix bugs and typos and think about the big picture.
+
++ Benefits of Pair Programming:
+  1. More efficiency.
+  1. Engaging collaboration.
+  1. Learning from each other.
+  1. improve social and interpersonal skills.
+  1. Get ready to job interviews.
+  1. Get ready for work environment.
 
 
 ## Definitions list:
-+ **** 
 
++ **Function** >> have series of statements as a group to perform a certin task.
++ **Methods** >>  same as the function but it's created inside and object.
++ **parameters** >> informations passed to the function to run.
++ **function calling** >> write the name of the function with parentheses and paremeters if required after declaring it.
++ **Named function** >> function that have a name and you can call it before declare it.
++ **Anonymous function** >> trated as expression and have no name and you can't call it before declare it.
++ **IIFE** >> Immediately Invoked Function Expression, means a function declared and called at the same time.
++ **Local variable** >> also called function level variable, which used inside a function (local scope).
++ **Global variable** >> any variable outside a function (global scope).
 
 ## Cheat sheet:
 
++ ```javascript
+  // Immediately Invoked Function
+  (function sum(a,b){
+    let add = a+b;
+    return add;
+  }())
+  ```
++  ```javascript
+    // named function
+    function sum(a,b){
+      let add = a+b;
+      return add;
+    }
+    sum(1,2)
+    ```
++   ```javascript
+    // anonymous function
+    let sum = function(a,b){
+      let add = a+b;
+      return add;
+    }
+    sum(1,2)
+    ``` 
 
 
 [Back to home page](../README.md)
