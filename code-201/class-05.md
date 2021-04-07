@@ -62,15 +62,50 @@ background-color: #0000ff; /* this color is blue */
 
 ## Ch12 Notes:
 
-## Example:
++ `font-family` property let you choose the typeface of the text.
++ `font-size` property let you choose the size of the text, and it accepts pixels and percentages and ems.
++ `@font-face` let you use font that the user doesn't have by download it from the web.
 
+```css
+@font-face {
+font-family: 'ChunkFiveRegular';
+src: url('fonts/chunkfive.eot');
+}
+
+h1, h2 {
+font-family: ChunkFiveRegular;
+}
+```
+
++ `font-weight` property let you make the text **bold**, and it's have 2 values: normal and bold. 
+
++ `font-style` property let you make the text *italic*, and it's have 3 values: normal, italic and oblique.
+
++ `text-transform` property let you change the case of the text,  and it's have 3 values: uppercase (*uppercase all the text*), lowercase (*lowercase all the text*) and capitalize (*capitalize first letter only*).
+
++ `text-decoration` property let add one of these values: none (*remove the decoration*), underline, overline, line-through and blink (*animates the text to make it flash on and off*).
+
++ `line-height` property let you change vertical gap between lines of text.
++ `letter-spacing` property let you change the space between letters.
++ `word-spacing` property let you change the space between words. 
++ `text-align` property let you align the text with 4 values: right, left, center and justify.
++ `vertical-align` property let align text in respect to image.
+
+![VerticalAlign](img/Valign.jpg)
+
++ `:first-letter` is a pseudo-element, let you control the properties of the first letter in the word.
++ `:first-line` is a pseudo-element, let you control the properties of the first line in the text.
++ `:link` is a pseudo-class, let you control the properties of the links that not visited.
++ `:visited` is a pseudo-class, let you control the properties of the links that are visited.
++ `:hover` is a pseudo-class, This is applied when a user hovers over an element with a pointing device such as a mouse.
++ `:active` is a pseudo-class, This is applied when an element is being activated by a user like a button or a link.
++ `:focus` is a pseudo-class, Focus occurs when a browser discovers that you are ready to interact with an element on the page like a form input when start typing.
 
 ---
 # **Blog Post Notes:**
 
 ## Notes:
 
-## Example:
 
 
 
