@@ -102,9 +102,20 @@ font-family: ChunkFiveRegular;
 + `:focus` is a pseudo-class, Focus occurs when a browser discovers that you are ready to interact with an element on the page like a form input when start typing.
 
 ---
-# **Blog Post Notes:**
+# **Blog Post (JPEG vs PNG vs GIF) Notes:**
 
 ## Notes:
+
++ JPEG, PNG and GIF, these 3 formats together comprise of more than 95% of all images loaded on websites.
+
++ TL;DR stand for “Too Long; Didn't Read.”.
+
++ Use JPEG format for all images that contain a natural scene. and use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. and use GIF format for images that contain animations.
+
++ PNG image would retain higher quality than an image than JPEG and would look a lot sharper. it would also occupy more space on the disk.
+
++ JPEG images don’t support transparency. PNG and GIF images support transparency.
+
 
 
 
