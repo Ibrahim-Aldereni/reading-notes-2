@@ -1,6 +1,7 @@
 # **HTML & CSS (Ch5-Ch11-Ch12) Notes:**
 
 ## Ch5 Notes:
+
 + To add image to tour page you must use `<img>` tag, and wit hthe following attributes:
   + src >> stand for source and it's the relative URL of the image.
   + alt >> stand for alternative and it's the text shown if the image broken.
@@ -32,6 +33,32 @@
 
 
 ## Ch11 Notes:
+
++ `color` property let you specify the font color, and `background-color` used to set the background color of the elements, and they both accept 3 values:
+  + rgb values >> red,green,blue. The values from(0-255)
+  + rgba values >> red,green,blue,alpha(opacity). opacity values from (0-1).
+  + hsl values >> Hue,saturation,lightness. hue values (0-360). saturation values as %. lightness (0% white) (50% normal) (100% black).
+  + hsla values >> Hue,saturation,lightness,alpha(opacity). 
+  + HEX code (0-f)
+  + Color name
+
+```css
+/* color name */
+h1 {
+color: white;
+background-color: black;
+}
+/* hex code */
+h2 {
+color: #ff0000; /* this color is red */
+background-color: #ffffff;  /* this color is white */
+}
+/* rgb value */
+p {
+color: rgb(0,255,0); /* this color is green */
+background-color: #0000ff; /* this color is blue */
+}
+```  
 
 ## Ch12 Notes:
 
