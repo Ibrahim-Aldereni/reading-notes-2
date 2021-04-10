@@ -12,13 +12,16 @@
 ---
 # **Javascript (Ch3-Ch5) Notes:**
 
-## Ch3 Notes:
++ ## Ch3 (Object Literals) Notes:
+  + Objects is a model of something in the real world and it's consists of variables (properties) and functions (methods).
+  
+  ![object](img/object.jpg)
 
+  + To Access property or method of an object we type the name of the object followed by dot (called member operator). and you can accces the property (*not mehtod*) using square bracket.
 
-## Ch5 Notes:
+  ![ObjectAccess](img/accessObject.jpg) 
 
-
-
++ ## Ch5 (Document Object Model) Notes:
 
 
 [Back to home page](../README.md)
