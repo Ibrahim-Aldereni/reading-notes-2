@@ -11,8 +11,36 @@
 ---
 # **HTML (Ch6 tables) Notes:**
 
++ The contents of the table are written out row by row. Example of HTML table:
 
+```html
+<table> <!--this tage used to create table-->
+  <tr> <!--table row-->
+    <th scope='col'>name</th> <!--table heading-->
+    <th scope='col'>age</th>
+    <th scope='col'>mark</th>
+  </tr>
+  <tr>
+    <td>Ahmad</td> <!--table data-->
+    <td>20</td>
+    <td>75%</td>
+  </tr>
+  <tr>
+    <td>Osama</td>
+    <td>18</td>
+    <td>90%</td>
+  </tr>
+</table>
+```
+![table](img/table.jpg)
 
++ HTML table attribute:
+  + `scope='col'` used with `<th>` to indicate the the header in column
+  + `scope='row'` used with `<th>` to indicate the the header in row
+  + `colspan="here num of columns"` used with `<th>` and `<td>` indicates how many columns that cell should run across.
+  + `rowspan="here num of rows "` used with `<th>` and `<td>` indicates how many rows that cell should run across.
+
++ `<thead>` and `<tbody>` and `<tfoot>` used for *long tables* to distinguish between different parts of the table, it helps to easy reading and easy styling the table.
 
 ---
 # **Javascript (Ch3 Functions, Methods, and Objects) Notes:**
