@@ -13,26 +13,26 @@
 
 + The contents of the table are written out row by row. Example of HTML table:
 
-  ```html
-  <table> <!--this tage used to create table-->
-    <tr> <!--table row-->
-      <th scope='col'>name</th> <!--table heading-->
-      <th scope='col'>age</th>
-      <th scope='col'>mark</th>
-    </tr>
-    <tr>
-      <td>Ahmad</td> <!--table data-->
-      <td>20</td>
-      <td>75%</td>
-    </tr>
-    <tr>
-      <td>Osama</td>
-      <td>18</td>
-      <td>90%</td>
-    </tr>
-  </table>
-  ```
-  ![table](img/table.jpg)
+```html
+<table> <!--this tage used to create table-->
+  <tr> <!--table row-->
+    <th scope='col'>name</th> <!--table heading-->
+    <th scope='col'>age</th>
+    <th scope='col'>mark</th>
+  </tr>
+  <tr>
+    <td>Ahmad</td> <!--table data-->
+    <td>20</td>
+    <td>75%</td>
+  </tr>
+  <tr>
+    <td>Osama</td>
+    <td>18</td>
+    <td>90%</td>
+  </tr>
+</table>
+```
+![table](img/table.jpg)
 
 + HTML table attribute:
   + `scope='col'` used with `<th>` to indicate the the header in column
@@ -47,41 +47,42 @@
 
 + Object costructor can use a function as a **template** to create similar objects (**instances**), see example below:
 
-  ```javascript
-  // Template:
-  function Apple(memory, camera, price){
-    // properties:
-    this.memory = memory;
-    this.camera = camera;
-    this.price = price;
-    // Methods:
-    this.test = function(){
-      console.log('Hi')
-    }
+```javascript
+// Template:
+function Apple(memory, camera, price){
+  // properties:
+  this.memory = memory;
+  this.camera = camera;
+  this.price = price;
+  // Methods:
+  this.test = function(){
+    console.log('Hi')
   }
+}
 
-  // instances:
-  let IphoneX = new Apple('128GB','20MP','300$');
-  let Iphone6 = new Apple('32GB','10MP','100$');
-  IphoneX.test();
-  Iphone6.test();
-  console.log(Iphone6);
-  console.log(IphoneX);
-  ```
+// instances:
+let IphoneX = new Apple('128GB','20MP','300$');
+let Iphone6 = new Apple('32GB','10MP','100$');
+IphoneX.test();
+Iphone6.test();
+console.log(Iphone6);
+console.log(IphoneX);
+```
 
-  ![constructorObject](img/constructorObject.png)
+![constructorObject](img/constructorObject.png)
 
 
 + The code below show you how we add and remove properties from an object:
 
-  ```javascript
-  let Hotel = {
-    name: 'park',
-    rooms: '120',
-  };
-  Hotel.gym = true; // thats how we add property to the object
-  delete Hotel.rooms; // thats how we remove property to the object
-  ```
+
+```javascript
+let Hotel = {
+  name: 'park',
+  rooms: '120',
+};
+Hotel.gym = true; // thats how we add property to the object
+delete Hotel.rooms; // thats how we remove property to the object
+```
 
 + `this` keyword is a reference to the object that the function is created inside, if it's used in a **global functions** it will refer to the **window**, and the **global variable** is a property in the window object, so if you use `this.variable name` inside the global function it will access the global varibale.
 
