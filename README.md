@@ -32,5 +32,6 @@
 | HTML Links, CSS Layout, JS Functions  |[Read-04](code-201/class-04.md)|
 | HTML Images; CSS Color & Text         |[Read-05](code-201/class-05.md)|
 | JS Object Literals; The DOM           |[Read-06](code-201/class-06.md)|
+| HTML Tables; JS Constructor Functions |[Read-07](code-201/class-07.md)|
 
 
