@@ -43,7 +43,9 @@
 
 ![cellsSpacing](img/cellsSpacing.png)
 
++ `cursor` property allows you to control the type of mouse cursor, it have these values: auto,crosshair,default,pointer,move,text,wait,help and url("image").
 
+![cursorShape](img/cursorShape.png)
 ---
 # **JavaScript (Ch6 Events) Notes:**
 
