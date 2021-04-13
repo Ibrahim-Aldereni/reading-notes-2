@@ -34,5 +34,6 @@
 | JS Object Literals; The DOM           |[Read-06](code-201/class-06.md)|
 | HTML Tables; JS Constructor Functions |[Read-07](code-201/class-07.md)|
 | More CSS Layout                       |[Read-08](code-201/class-08.md)|
+| Forms and Events                      |[Read-09](code-201/class-09.md)|
 
 
