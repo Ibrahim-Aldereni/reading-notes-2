@@ -21,8 +21,27 @@
 [All form controls](https://drive.google.com/file/d/1aVy6MOs2bOsYElYP0QPkDxqtUcwrAPVI/view?usp=sharing)
 
 
-
 ## Ch14- lists,tables&forms Notes:
+
++ `list-style-type` property let you change the ahape of the points of `<ol>, <ul>, and <li>`, see photo below:
+
+![listStyles](img/listStyles.png)
+
++ You can specify an image to act as a bullet point using the `list-style-image` property, see photo below:
+
+![listImage](img/listImage.png)
+
++ `list-style-position` property indicates whether the marker should appear on the inside or the outside of the box, see photo below:
+
+![listPosition](img/listPosition.png)
+
++ `empty-cells` property to specify whether the table empty cells borders should be shown or not, see photo below:
+
+![emptyCells](img/emptyCells.png)
+
++ `border-spacing, border-collapse` properties used to control the distance between adjacent cells, see photo below:
+
+![cellsSpacing](img/cellsSpacing.png)
 
 
 ---
