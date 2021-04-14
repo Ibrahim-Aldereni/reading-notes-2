@@ -35,5 +35,6 @@
 | HTML Tables; JS Constructor Functions |[Read-07](code-201/class-07.md)|
 | More CSS Layout                       |[Read-08](code-201/class-08.md)|
 | Forms and Events                      |[Read-09](code-201/class-09.md)|
+| JS Debugging                          |[Read-10](code-201/class-10.md)|
 
 
