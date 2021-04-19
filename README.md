@@ -38,5 +38,6 @@
 | JS Debugging                          |[Read-10](code-201/class-10.md)|
 | Assorted Topics                       |[Read-11](code-201/class-11.md)|
 | HTML canvas Element & Chart.js        |[Read-12](code-201/class-12.md)|
+| Local Storage                         |[Read-13](code-201/class-13.md)|
 
 
