@@ -90,6 +90,71 @@
   + `transform-origin: 0 0` top left or `transform-origin: top left`
   + `transform-origin: 100% 100%` bottom right
 
+---
+# **Transitions & Animations Notes:**
+
++ `transition` you can change appearance and behavior of an element when hover or click on the element. There is 4 properties `transition-property`, `transition-duration`,`transition-timing-function`, and `transition-delay`.
+
+  + example:
+    ```css
+      .box {
+      background: #2db34a;
+      transition-property: background;
+      transition-duration: 1s;
+      transition-timing-function: linear;
+      }
+      .box:hover {
+        background: #ff7b29;
+      }
+    ```
+    ![transition](img/transition.gif)
+
++ only the properties identified within the `transition-property` value will be affected by any transitions.
+
+  + example:
+
+    ```css
+      .box {
+        background: #2db34a;
+        border-radius: 6px;
+        transition-property: background, border-radius;
+        transition-duration: 1s;
+        transition-timing-function: linear;
+      }
+      .box:hover {
+        background: #ff7b29;
+        border-radius: 50%;
+      }
+    ```
+    ![transition2](img/transition2.gif)
+
+
++ `transition-timing-function` property is used to set the speed in which a transition will move and it have these values: linear, ease-in, ease-out, and ease-in-out.
+
++ `transition-delay` property used to set how long a transition should be stopped before executing.
+  + example:
+    ```css
+      .box {
+        background: #2db34a;
+        border-radius: 6px;
+        transition-property: background, border-radius;
+        transition-duration: .2s, 1s;
+        transition-timing-function: linear, ease-in;
+        transition-delay: 0s, 1s;
+      }
+      .box:hover {
+        background: #ff7b29;
+        border-radius: 50%;
+      }
+    ```
+    ![transition3](img/transition3.gif)
+
++ When more control is required, transitions need to have multiple states. In return, this is where `animations` pick up where transitions leave off.
+
++ The `@keyframes` rule includes the `animation name`, `any animation breakpoints`, and the `properties` intended to be animated.
+
++ See more info about animation and keyframes her >> [Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/#shorthand-transitions)
+
 
 
 [Back to home page](../README.md)
