@@ -39,5 +39,7 @@
 | Assorted Topics                       |[Read-11](code-201/class-11.md)|
 | HTML canvas Element & Chart.js        |[Read-12](code-201/class-12.md)|
 | Local Storage                         |[Read-13](code-201/class-13.md)|
+| CSS Transforms,Transitions,Animations |[Read-14a](code-201/class-14a.md)|
+| What Google Learned About Teams       |[Read-14b](code-201/class-14b.md)|
 
 
