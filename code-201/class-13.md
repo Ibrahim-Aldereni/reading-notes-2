@@ -14,12 +14,16 @@
 
   ```javascript
   // first way: 
-    let foo = localStorage.getItem("bar"); // get
-    localStorage.setItem("bar", foo); // set
+    localStorage.setItem("lastname", "Smith"); // Store
+    document.getElementById("result").innerHTML = localStorage.getItem("lastname"); // Retrieve
 
   // second way:
-    let foo = localStorage["bar"]; // get
-    localStorage["bar"] = foo; // set
+    localStorage['lastname'] = "Smith"; // Store
+    document.getElementById("result").innerHTML = localStorage['lastname']; // Retrieve
+
+  // Third way
+    localStorage.lastname = "Smith"; // Store
+    document.getElementById("result").innerHTML = localStorage.lastname; // Retrieve
   ```
 
 + `removeItem()` method for removing the value for a given named key.
