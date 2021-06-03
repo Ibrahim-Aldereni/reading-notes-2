@@ -8,8 +8,6 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 
 ## **Table of Contents:**
 
-<br />
-
 ---
 
 ### Code 102 - Intro to Software Development:

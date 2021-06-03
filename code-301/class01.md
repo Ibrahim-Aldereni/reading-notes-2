@@ -20,16 +20,27 @@
 
 - What is props short for?
 
+  It stand for **properties**
+
 - How are props used in React?
 
+  > Firstly, define an attribute and its value(data). Then pass it to child component(s) by using Props. Finally, render the Props Data. (2)
+
 - What is the flow of props?
+
+  uni-directional flow. (one way from parent to child)
+
+---
 
 ## Things I want to know more about:
 
 - What is the benefit of having different components views?
+- Is (props) reserved keyword?
 
 ## Sources:
 
 - (1) [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+
+- (2) [What is “Props” and how to use it in React?](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
 [Back to home page](../README.md)
