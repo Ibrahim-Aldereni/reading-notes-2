@@ -24,17 +24,26 @@
 
 - **What types of things can you pass in the props?**
 
+  Numbers, strings, functions
+
 - **What is the big difference between props and state?**
+
+  Props passed into the component and handled outside the component, but states handled inside the component.
 
 - **When do we re-render our application?**
 
+  When we change the state inside the application
+
 - **What are some examples of things that we could store in state?**
+
+  counter and form inputs
 
 ---
 
 ## Things I want to know more about:
 
 - When to use Lifecycle methods?
+- How to set state of a component?
 
 ## Sources:
 
