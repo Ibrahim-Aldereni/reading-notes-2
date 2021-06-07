@@ -69,9 +69,29 @@
   console.log(ob3); // result: {name: "ahmad", age: 20}
   ```
 
+# **How to Pass Functions between Components:**
+
+- **In the video, what is the first step that the developer does to pass functions between components?**
+
+  Add prop to the parent component with the function that need to passed top the child
+
+- **In your own words, what does the increment function do?**
+
+  Update the state count according to the name
+
+- **How can you pass a method from a parent component into a child component?**
+
+  Using a prop in parent with a function then call it in the child
+
+- **How does the child component invoke a method that was passed to it from a parent component?**
+  By accesing the prop that have a function value that passed from the parent
+
 ---
 
 ## Things I want to know more about:
+
+- How the react app effected if we don't add key value to listed items?
+- Difference between spread and Rest?
 
 ## Sources:
 
