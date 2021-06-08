@@ -16,19 +16,19 @@ We should update the state with their responses as soon as they enter them, beca
 
 - **Why would we use a ternary operator?**
 
+  For the sake of readability
+
 - **Rewrite the following statement using a ternary statement:**
 
   ```javascript
-  if (x === y) {
-    console.log(true);
-  } else {
-    console.log(false);
-  }
+  x === y ? console.log(true) : console.log(false);
   ```
 
 ---
 
 ## Things I want to know more about:
+
+- How can using uncontrolled component affect my app?
 
 ## Sources:
 
