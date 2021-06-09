@@ -64,3 +64,4 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 | State and Props                      | [Read-02](code-301/class02.md) |
 | Passing Functions as Props           | [Read-03](code-301/class03.md) |
 | React and Forms                      | [Read-04](code-301/class04.md) |
+| Putting it all together              | [Read-05](code-301/class05.md) |
