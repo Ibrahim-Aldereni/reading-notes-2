@@ -1,0 +1,21 @@
+# **An Introduction to Node.js:**
+
+- **What is node.js?**
+
+- **In your own words, what is Chrome’s V8 JavaScript Engine?**
+- **What does it mean that node is a JavaScript runtime?**
+- **What is npm?**
+- **What version of node are you running on your machine?**
+- **What version of npm are you running on your machine?**
+- **What command would you type to install a library/package called ‘jshint’?**
+- **What is node used for?**
+
+---
+
+## Things I want to know more about:
+
+## Sources:
+
+- (1) [What Is Node and When Should I Use It?](https://www.sitepoint.com/an-introduction-to-node-js/)
+
+[Back to home page](../README.md)

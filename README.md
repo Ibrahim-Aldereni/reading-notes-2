@@ -14,7 +14,7 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 
 ---
 
-| The Topics                    | The link                        |
+| The Topic                     | The link                        |
 | ----------------------------- | ------------------------------- |
 | The Coder's Computer          | [Read-01](code-102/read01.md)   |
 | Learning Markdown             | [Read-02a](code-102/read02a.md) |
@@ -32,7 +32,7 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 
 ---
 
-| The Topics                             | The link                          |
+| The Topic                              | The link                          |
 | -------------------------------------- | --------------------------------- |
 | Introductory HTML and JavaScript       | [Read-01](code-201/class-01.md)   |
 | HTML Text, CSS Introduction            | [Read-02](code-201/class-02.md)   |
@@ -58,10 +58,11 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 
 ---
 
-| The Topics                           | The link                       |
+| The Topic                            | The link                       |
 | ------------------------------------ | ------------------------------ |
 | Introduction to React and Components | [Read-01](code-301/class01.md) |
 | State and Props                      | [Read-02](code-301/class02.md) |
 | Passing Functions as Props           | [Read-03](code-301/class03.md) |
 | React and Forms                      | [Read-04](code-301/class04.md) |
 | Putting it all together              | [Read-05](code-301/class05.md) |
+| NODE.JS                              | [Read-06](code-301/class06.md) |
