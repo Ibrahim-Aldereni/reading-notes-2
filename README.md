@@ -66,3 +66,4 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 | React and Forms                      | [Read-04](code-301/class04.md) |
 | Putting it all together              | [Read-05](code-301/class05.md) |
 | NODE.JS                              | [Read-06](code-301/class06.md) |
+| REST                                 | [Read-07](code-301/class07.md) |
