@@ -58,13 +58,14 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 
 ---
 
-| The Topic                            | The link                       |
-| ------------------------------------ | ------------------------------ |
-| Introduction to React and Components | [Read-01](code-301/class01.md) |
-| State and Props                      | [Read-02](code-301/class02.md) |
-| Passing Functions as Props           | [Read-03](code-301/class03.md) |
-| React and Forms                      | [Read-04](code-301/class04.md) |
-| Putting it all together              | [Read-05](code-301/class05.md) |
-| NODE.JS                              | [Read-06](code-301/class06.md) |
-| REST                                 | [Read-07](code-301/class07.md) |
-| APIs                                 | [Read-08](code-301/class08.md) |
+| The Topic                                        | The link                       |
+| ------------------------------------------------ | ------------------------------ |
+| Introduction to React and Components             | [Read-01](code-301/class01.md) |
+| State and Props                                  | [Read-02](code-301/class02.md) |
+| Passing Functions as Props                       | [Read-03](code-301/class03.md) |
+| React and Forms                                  | [Read-04](code-301/class04.md) |
+| Putting it all together                          | [Read-05](code-301/class05.md) |
+| NODE.JS                                          | [Read-06](code-301/class06.md) |
+| REST                                             | [Read-07](code-301/class07.md) |
+| APIs                                             | [Read-08](code-301/class08.md) |
+| Concepts of Functional Programming in Javascript | [Read-09](code-301/class09.md) |
