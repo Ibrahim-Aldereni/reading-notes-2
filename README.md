@@ -70,3 +70,4 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 | APIs                                 | [Read-08](code-301/class08.md) |
 | Functional Programming in Javascript | [Read-09](code-301/class09.md) |
 | In memory storage                    | [Read-10](code-301/class10.md) |
+| Authentication                       | [Read-11](code-301/class11.md) |
