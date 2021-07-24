@@ -82,5 +82,6 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 
 ---
 
-| The Topic | The link |
-| --------- | -------- |
+| The Topic   | The link                       |
+| ----------- | ------------------------------ |
+| Java Basics | [Read-01](code-401/class01.md) |
