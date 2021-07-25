@@ -82,6 +82,7 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 
 ---
 
-| The Topic   | The link                       |
-| ----------- | ------------------------------ |
-| Java Basics | [Read-01](code-401/class01.md) |
+| The Topic              | The link                       |
+| ---------------------- | ------------------------------ |
+| Java Basics            | [Read-01](code-401/class01.md) |
+| Arrays, Loops, Imports | [Read-02](code-401/class02.md) |
