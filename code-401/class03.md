@@ -32,7 +32,7 @@
   - **checked exception:** These are exceptional conditions that a well-written application should anticipate and recover from and they are subject to the Catch or Specify Requirement.
   - **unchecked exceptions:**
     - **error:** These are exceptional conditions that are external to the application, and that the application usually cannot anticipate or recover from and they are not subject to the Catch or Specify Requirement
-    - **runtime exception:**These are exceptional conditions that are internal to the application, and that the application usually cannot anticipate or recover from and they are not subject to the Catch or Specify Requirement.
+    - **runtime exception:** These are exceptional conditions that are internal to the application, and that the application usually cannot anticipate or recover from and they are not subject to the Catch or Specify Requirement.
 
 # **Using Scanner to read in a file in Java:**
 
