@@ -49,4 +49,5 @@
 - (2) [What Is an Exception](https://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html)
 
 - (3) [Scanning](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)
-  [Back to home page](../README.md)
+
+[Back to home page](../README.md)
