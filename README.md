@@ -88,3 +88,4 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 | Arrays, Loops, Imports     | [Read-02](code-401/class02.md) |
 | Maps, primitives, File I/O | [Read-03](code-401/class03.md) |
 | OOP                        | [Read-04](code-401/class04.md) |
+| Linked Lists               | [Read-05](code-401/class05.md) |
