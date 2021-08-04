@@ -92,3 +92,4 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 | Inheritance and Interfaces | [Read-06](code-401/class06.md) |
 | OO Design                  | [Read-08](code-401/class08.md) |
 | WRRC and Java              | [Read-09](code-401/class09.md) |
+| Stacks and Queues          | [Read-10](code-401/class10.md) |
