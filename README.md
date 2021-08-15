@@ -97,4 +97,5 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 | Spring RESTful Routing & Static Files     | [Read-12](code-401/class12.md) |
 | Related Resources and Integration Testing | [Read-13](code-401/class13.md) |
 | Trees                                     | [Read-14](code-401/class14.md) |
-| Spring Authentication                     | [Read-15](code-401/class15.md) |
+| Spring Authentication                     | [Read-16](code-401/class16.md) |
+| Spring Boot and OAuth2                    | [Read-17](code-401/class17.md) |
