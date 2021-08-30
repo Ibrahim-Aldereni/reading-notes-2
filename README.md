@@ -103,3 +103,4 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 | Spring and Sockets                         | [Read-19](code-401/class19.md) |
 | Android Fundamentals                       | [Read-26](code-401/class26.md) |
 | Intents, Activities, and SharedPreferences | [Read-27](code-401/class27.md) |
+| RecyclerView                               | [Read-28](code-401/class28.md) |
