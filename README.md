@@ -107,3 +107,4 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 | Room                                       | [Read-29](code-401/class29.md) |
 | Hashtables                                 | [Read-30](code-401/class30.md) |
 | Espresso                                   | [Read-31](code-401/class31.md) |
+| Serverless and Amplify                     | [Read-32](code-401/class32.md) |
