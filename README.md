@@ -109,3 +109,4 @@ _My name is Ibrahim Aldereni, I have a bachelor degree in electrical engineering
 | Espresso                                   | [Read-31](code-401/class31.md) |
 | Serverless and Amplify                     | [Read-32](code-401/class32.md) |
 | GraphQL @connection                        | [Read-33](code-401/class33.md) |
+| Graphs                                     | [Read-34](code-401/class34.md) |
